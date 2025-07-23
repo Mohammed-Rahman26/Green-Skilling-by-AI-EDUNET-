@@ -17,3 +17,28 @@ Energy-efficient machine learning algorithms
 Smart resource management solutions
 
 Real-world green tech projects
+Technologies & Tools Used
+Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch)
+
+Jupyter Notebooks
+
+Data visualization libraries (Matplotlib, Seaborn)
+
+Cloud computing & AI frameworks
+
+Version control with Git & GitHub
+
+Why Green Skilling with AI?
+AI has immense potential in tackling environmental issues, such as:
+
+Predicting natural disasters
+
+Optimizing energy consumption
+
+Monitoring deforestation
+
+Reducing waste with smart logistics
+
+Promoting renewable energy adoption
+
+This course has empowered me to create AI-driven solutions that align with sustainability goals and support a greener future.
